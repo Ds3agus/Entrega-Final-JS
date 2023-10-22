@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Final-García</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&family=Rubik:wght@300&family=Sora&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+<body>
+<div class="container">
+    <header>
+        <p class="logo"></p>
+        <nav class="categorias">
+            <ul id="menuCategorias" class="menu-categorias">
+                <li>
+                    <button id="menuHamburguesa" class="menu-hamburguesa"><i class="bi bi-list"></i></button>
+                </li>
+                <li>
+                    <button id="todos" class="boton-navbar boton-categoria active">Todos los productos</button>
+                </li>
+                <li>
+                    <button id="notebooks" class="boton-navbar boton-categoria">Notebooks</button>
+                </li>
+                <li>
+                    <button id="accesorios" class="boton-navbar boton-categoria"></i>Accesorios</button>
+                </li>
+                <li>
+                    <button id="celularesytablets" class="boton-navbar boton-categoria">Celulares y tablets</button>
+                </li>
+                <li>
+                    <a href="./carrito.html" class="boton-navbar boton-carrito"><i class="bi bi-bag-heart-fill"></i><span id="numerito" class="numerito">0</span></a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <aside>
+        <div class="filtrador-productos">
+            <h3 class="titulo-filtrador">Buscar por precio</h3>
+            <div class="label-precio">
+                <input type="text" id="precioMaximo" placeholder="Precio máximo $">
+                <input type="text" id="precioMinimo" placeholder="Precio minimo $">      
+                <button class="boton-filtrar" id="filtrar">Filtrar</button>
+                <a class="boton-carrito-sticky" href="./carrito.html">Ir al carrito <i class="bi bi-bag-heart-fill"></i><span class="numerito">0</span></a>
+            </div>        
+        </div>
+    </aside>
+    <main>
+        <nav class="nav-main">
+            <h2 class="titulo-principal" id="tituloPrincipal">Todos los productos</h2>
+            <div class="busqueda">
+                <i class="bi bi-search icono-busqueda"></i>
+                <input id="inputBuscador" type="text" class="input-buscador" placeholder="Buscar productos...">
+            </div>
+        </nav>         
+        <div id="contenedorProductos" class="contenedor-productos">            
+        </div>
+    </main>
+</div>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="./js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,312 @@
+[
+    {
+        "id": "notebook-samsung-galaxy-book-3-17gb",
+        "titulo": "Samsung galaxy book3 17gb i7",
+        "imagen": "./imagenes/notebooks/notebook01.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 680000,
+        "stock": 12
+    },
+    {
+        "id": "macbook-pro-14.16gb-silver",
+        "titulo": "MacBook Pro 14 16GB silver",
+        "imagen": "./imagenes/notebooks/notebook02.png",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1740000,
+        "stock": 12
+    },
+    {
+        "id":"notebook-samsung-galaxy-book-3-pro360-16gb",
+        "titulo":"Samsung galaxy book3 pro 360 16gb",
+        "imagen":"./imagenes/notebooks/notebook03.png",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 1240000,
+        "stock": 0
+    },
+    {
+    "id":"notebook-lenovo-i7-12gb",
+    "titulo":"Notebook Lenovo-i7-12gb",
+    "imagen":"./imagenes/notebooks/notebook04.png",
+    "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+    },
+    "precio": 1750000,
+    "stock": 12
+    },
+    {
+    "id":"notebook-hp-dualcore-ryzen3-16gb",
+    "titulo":"HP dual core ryzen 3 16gb",
+    "imagen":"./imagenes/notebooks/notebook05.png",
+    "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+    },
+    "precio": 1470000,
+    "stock": 0
+    },
+    {
+    "id":"notebook-lenovo-legion5-16gb",
+    "titulo":"notebook lenovo legion 5 16gb",
+    "imagen":"./imagenes/notebooks/notebook06.png",
+    "categoria": {
+        "nombre": "Notebooks",
+        "id": "notebooks"
+    },
+    "precio": 1050000,
+    "stock": 15
+    },
+    {
+    "id":"notebook-gateway-ryzen7-8gb",
+    "titulo":"Gateway amd ryzen 7 8gb",
+    "imagen":"./imagenes/notebooks/notebook07.png",
+    "categoria": {
+        "nombre": "Notebooks",
+        "id": "notebooks"
+    },
+    "precio": 400000,
+    "stock": 24
+    },
+    {
+    "id":"notebook-enova14-4gb",
+    "titulo":"Notebook enova 14 4gb",
+    "imagen":"./imagenes/notebooks/notebook08.jpg",
+    "categoria": {
+        "nombre": "Notebooks",
+        "id": "notebooks"
+    },
+    "precio": 210000,
+    "stock": 31
+    },
+    {
+    "id":"notebook-enova-cloudbook-celeron-4gb",
+    "titulo":"enova cloudbook intel celeron 4gb",
+    "imagen":"./imagenes/notebooks/notebook09.png",
+    "categoria": {
+        "nombre": "Notebooks",
+        "id": "notebooks"
+    },
+    "precio": 220000,
+    "stock": 4
+    },
+    {
+    "id":"notebook-enova14-8gb",
+    "titulo":"Notebook enova 14 8gb ram",
+    "imagen":"./imagenes/notebooks/notebook10.jpg",
+    "categoria": {
+        "nombre": "Notebooks",
+        "id": "notebooks"
+    },
+    "precio": 450000,
+    "stock": 0
+    },
+    {
+    "id":"auricular-extreme-gold",
+    "titulo":"Auricular extreme Gold",
+    "imagen":"./imagenes/accesorios/auriculares01.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 13000,
+    "stock": 50
+    },
+{
+    "id":"auricular-gamer-trust-negro",
+    "titulo":"auricular gaming trust GXT 322 negro",
+    "imagen":"./imagenes/accesorios/auriculares02.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 25000,
+    "stock": 43
+},
+{
+    "id":"auricular-kanji-camuflado",
+    "titulo":"Auricular kanji camuflado",
+    "imagen":"./imagenes/accesorios/auriculares03.webp",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 7000,
+    "stock": 0
+},
+{
+    "id":"microfono-nisuta-negro",
+    "titulo":"microfono nisuta negro usb",
+    "imagen":"./imagenes/accesorios/microfono01.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 9000,
+    "stock": 4
+},
+{
+    "id":"microfono-nisuta-gamer",
+    "titulo":"microfono nisuta gamer negro",
+    "imagen":"./imagenes/accesorios/microfono02.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 12000,
+    "stock": 83
+},
+{
+    "id":"mouse-logitech-rojo",
+    "titulo":"Mouse logitech rojo USB",
+    "imagen":"./imagenes/accesorios/mouse01.webp",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 11000,
+    "stock": 0
+},
+{
+    "id":"mouse-logitech-gris",
+    "titulo":"Mouse-logitech-gris",
+    "imagen":"./imagenes/accesorios/mouse03.webp",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 4500,
+    "stock": 53
+},
+{
+    "id":"teclado-logitech-k120",
+    "titulo":"Teclado logitech k120",
+    "imagen":"./imagenes/accesorios/teclado01.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 6000,
+    "stock": 15
+},
+{
+    "id":"teclado-gamer-twolf",
+    "titulo":"Teclado gamer twolf luces",
+    "imagen":"./imagenes/accesorios/teclado02.webp",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 5300,
+    "stock": 74
+},
+{
+    "id":"samsung-a34-128gb",
+    "titulo":"Samsung galaxy A34 128gb",
+    "imagen":"./imagenes/celularesytablets/galaxya34.avif",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 227000,
+    "stock": 24
+},
+{
+    "id":"tablet-exo-wave10-4gb",
+    "titulo":"Tablet EXO wave 10 4gb",
+    "imagen":"./imagenes/celularesytablets/tabletexo.jpg",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 185000,
+    "stock": 0
+},
+{
+    "id":"tablet-galaxy-tab-a8",
+    "titulo":"Tablet samsung galaxt tab A8",
+    "imagen":"./imagenes/celularesytablets/tabletgalaxy.avif",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 189000,
+    "stock": 0
+},
+{
+    "id":"tablet-lenovo-M10",
+    "titulo":"Tablet lenovo M10 4gb ram",
+    "imagen":"./imagenes/celularesytablets/tabletlenovo.jpg",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 124000,
+    "stock": 11
+},
+{
+    "id":"tablet-lenovo-M10 2gb",
+    "titulo":"Tablet lenovo M10 2gb",
+    "imagen":"./imagenes/celularesytablets/tabletlenovo2.jpg",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 157000,
+    "stock": 10
+},
+{
+    "id":"xiaomi-note11t-pro",
+    "titulo":"Xiaomi note 11t pro 12gb",
+    "imagen":"./imagenes/celularesytablets/xiaominote11.png",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 640000,
+    "stock": 6
+},
+{
+    "id":"webcam-bons-fullhd",
+    "titulo":"Camara web full hd bons",
+    "imagen":"./imagenes/accesorios/webcam01.png",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+    "precio": 13000,
+    "stock": 13
+},
+{
+    "id":"alcatel1ultra",
+    "titulo":"alcatel 1 ultra 32gb",
+    "imagen":"./imagenes/celularesytablets/alcatel1ultra.jpg",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 32000,
+    "stock": 0
+},
+{
+    "id":"motorolaE22",
+    "titulo":"motorola E22 32GB",
+    "imagen":"./imagenes/celularesytablets/motorolae22.png",
+    "categoria": {
+        "nombre":"Celulares y tablets",
+        "id":"celularesytablets"
+    },
+    "precio": 80000,
+    "stock": 9
+}
+]
+
+
